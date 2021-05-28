@@ -1,0 +1,5 @@
+parameters:
+	level: max
+	paths:
+		- config.php
+		- system/core/Config.php
